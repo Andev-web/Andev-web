@@ -14,7 +14,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a programmer at `Conquerblocks`, `Mimo`, `Unity`.
 - :student: I’m currently learning `Developer Web`.
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Always `Learning New Things`.
 <br>
 
 
