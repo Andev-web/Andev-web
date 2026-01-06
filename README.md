@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://www.conquerblocks.com).
+- :school: I am a `Junior` at [Academy of Developer Full Stack](https://www.conquerblocks.com).
 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a programmer at `Conquerblocks`, `Mimo`, `Unity`.
